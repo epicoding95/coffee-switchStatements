@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/c-practice/obj/Debug/netcoreapp2.2/needed.csprojAssemblyReference.cache
+/Users/Guest/Desktop/c-practice/obj/Debug/netcoreapp2.2/needed.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/c-practice/obj/Debug/netcoreapp2.2/needed.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/c-practice/obj/Debug/netcoreapp2.2/needed.AssemblyInfo.cs
+/Users/Guest/Desktop/c-practice/bin/Debug/netcoreapp2.2/needed.deps.json
+/Users/Guest/Desktop/c-practice/bin/Debug/netcoreapp2.2/needed.runtimeconfig.json
+/Users/Guest/Desktop/c-practice/bin/Debug/netcoreapp2.2/needed.runtimeconfig.dev.json
+/Users/Guest/Desktop/c-practice/bin/Debug/netcoreapp2.2/needed.dll
+/Users/Guest/Desktop/c-practice/bin/Debug/netcoreapp2.2/needed.pdb
+/Users/Guest/Desktop/c-practice/obj/Debug/netcoreapp2.2/needed.dll
+/Users/Guest/Desktop/c-practice/obj/Debug/netcoreapp2.2/needed.pdb
